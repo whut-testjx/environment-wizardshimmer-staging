@@ -10,6 +10,9 @@ dependencies:
 - name: testnetcore
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
+- name: testnetcorereal
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
 - name: testspringboot
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
