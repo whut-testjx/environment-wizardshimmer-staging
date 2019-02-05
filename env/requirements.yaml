@@ -9,7 +9,7 @@ dependencies:
   version: 2.3.89
 - name: testnetcore
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.4
+  version: 0.0.5
 - name: testnetcorereal
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
